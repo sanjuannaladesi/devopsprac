@@ -8,7 +8,7 @@
     }
     .style4
     {
-        height: 23px;
+        height: 24px;
     }
     .style5
     {
